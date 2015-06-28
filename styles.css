@@ -1,1 +1,64 @@
 
+
+html, body {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2% 8%;
+
+}
+
+header {
+    height: 40%;
+    width: 100%;
+    font-size: 19.5px;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+.top {
+    height: 50%;
+    width: 100%;
+
+}
+
+h4 {
+    text-align: right;
+    margin: 0;
+}
+
+main {
+    height: 60%;
+    width: 100%;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50%;
+    width: 100%;
+
+}
+
+img {
+    height: 90%;
+    width: 16%;
+}
+
+
+footer {
+    border-top: 1px solid black;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top: 43%;
+}
+
+a {
+    text-decoration: none;
+    color: #0D48AA;
+}
+
